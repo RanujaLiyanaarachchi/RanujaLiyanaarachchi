@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![Header Image](https://raw.githubusercontent.com/RanujaLiyanaarachchi/University/main/Second%20Semester/Modules/images/Untitled%20(1280%20x%20420%20px).png)
+![Header Image](https://raw.githubusercontent.com/RanujaLiyanaarachchi/University/main/Second%20Semester/Modules/images/t1.png)
 
 <!--
 **RanujaLiyanaarachchi/RanujaLiyanaarachchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
