@@ -4,7 +4,7 @@
 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/RanujaLiyanaarachchi/University/main/Second%20Semester/Modules/images/t4.png" alt="Header Image">
+    <img src="https://raw.githubusercontent.com/RanujaLiyanaarachchi/University/main/Second%20Semester/Modules/images/t5.png" alt="Header Image">
 </div>
 
 
