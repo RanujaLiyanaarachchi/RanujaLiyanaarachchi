@@ -1,8 +1,5 @@
-## Hi there 👋
-
-
 <div align="center">
-    <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Images/GitHub%20Baner.gif?raw=true" alt="GitHub Banner GIF">
+    <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/GitHub%20Baner.gif?raw=true" alt="GitHub Banner GIF">
 </div>
 
 
