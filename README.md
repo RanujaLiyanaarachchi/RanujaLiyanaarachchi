@@ -45,6 +45,12 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,dart,html,css,tailwind,javascript,dotnet,kotlin,php,python,swift,mysql,mongodb,react,git,github,gitlab,angular,htmx,js,nodejs,nextjs,nuxtjs,flutter,kotlin,bootstrap,linux,figma,arduino,ps,ai,ae,pr,xd&perline=18)](https://skillicons.dev)
+
+
+<br><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Line.gif?raw=true"><br><p></p><br>
+
+## <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Tools.gif?raw=true" width="40px"> &nbsp;***Tools*** <br>
+
 <!--
 **RanujaLiyanaarachchi/RanujaLiyanaarachchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
