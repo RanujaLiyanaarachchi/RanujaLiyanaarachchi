@@ -5,28 +5,28 @@
 <br>
 
 <div align="center">
-  <table style="border-collapse: collapse;" cellpadding="10">
+  <table style= "border-collapse: collapse;" cellpadding="80">
     <tr>
       <td align="center" style="border: 1px solid transparent; opacity: 0;">
-      <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Followers.gif?raw=true" alt="Followers Icon" width="50" style="vertical-align: middle;"/>
+      <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Followers.gif?raw=true" alt="Followers Icon" width="60" style="vertical-align: middle;"/>
       </td>
       <td align="center" style="border: 1px solid transparent; opacity: 0;">
         <b>Flowers</b>
       </td>
       <td align="center" style="border: 1px solid transparent; opacity: 0;">
-      <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Views.gif?raw=true" alt="Eye Icon" width="50" style="vertical-align: middle;"/>
+      <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Views.gif?raw=true" alt="Eye Icon" width="60" style="vertical-align: middle;"/>
       </td>
       <td align="center" style="border: 1px solid transparent; opacity: 0;">
         <b>Views</b>
       </td>
       <td align="center" style="border: 1px solid transparent; opacity: 0;">
-      <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Location.gif?raw=true" alt="Location Icon" width="50" style="vertical-align: middle;"/>
+      <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Location.gif?raw=true" alt="Location Icon" width="60" style="vertical-align: middle;"/>
       </td>
       <td align="center" style="border: 1px solid transparent; opacity: 0;">
         <b>Galle / Sri Lanka</b>
       </td>
       <td align="center" style="border: 1px solid transparent; opacity: 0;">
-      <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Link.gif?raw=true" alt="Link Icon" width="50" style="vertical-align: middle;"/>
+      <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Link.gif?raw=true" alt="Link Icon" width="60" style="vertical-align: middle;"/>
       </td>
       <td align="center" style="border: 1px solid transparent; opacity: 0;">
         <b>Portfolio</b>
