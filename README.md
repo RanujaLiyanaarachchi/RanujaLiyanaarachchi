@@ -1,9 +1,8 @@
 ## Hi there 👋
 
 
-
 <div align="center">
-    <img src="https://raw.githubusercontent.com/RanujaLiyanaarachchi/University/main/Second%20Semester/Modules/images/tt.png" alt="Header Image">
+    <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Images/GitHub%20Baner.gif?raw=true" alt="GitHub Banner GIF">
 </div>
 
 
