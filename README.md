@@ -39,12 +39,12 @@
 📫 **How to reach me**: [E-mail](mailto:your-email@example.com).
 
 
-<br><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Line.gif?raw=true"><br><br><br><br>
+<br><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Line.gif?raw=true"><br><p></p><br>
 
 ## <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Skills.gif?raw=true" width="40px"> &nbsp;***Skills*** <br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,dart,html,css,tailwind,javascript,dotnet,kotlin,php,python,swift,mysql,mongodb,react,git,github,gitlab,angular,htmx,js,nodejs,nextjs,nuxtjs,flutter,kotlin,raspberrypi,bootstrap,linux,figma,arduino,ps,ai,ae,pr,xd&perline=18)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,dart,html,css,tailwind,javascript,dotnet,kotlin,php,python,swift,mysql,mongodb,react,git,github,gitlab,angular,htmx,js,nodejs,nextjs,nuxtjs,flutter,kotlin,bootstrap,linux,figma,arduino,ps,ai,ae,pr,xd&perline=18)](https://skillicons.dev)
 <!--
 **RanujaLiyanaarachchi/RanujaLiyanaarachchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
