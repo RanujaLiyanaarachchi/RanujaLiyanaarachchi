@@ -8,22 +8,10 @@
   <table style="border-collapse: collapse;" cellpadding="10">
     <tr>
       <td align="center" style="border: 1px solid transparent; opacity: 0;">
-        <p></p>
-      </td>
-      <td align="center" style="border: 1px solid transparent; opacity: 0;">
         <img src="https://via.placeholder.com/50" alt="Flowers" width="50"><br>
       </td>
       <td align="center" style="border: 1px solid transparent; opacity: 0;">
         <b>Flowers</b>
-      </td>
-      <td align="center" style="border: 1px solid transparent; opacity: 0;">
-        <p></p>
-      </td>
-      <td align="center" style="border: 1px solid transparent; opacity: 0;">
-        <p></p>
-      </td>
-      <td align="center" style="border: 1px solid transparent; opacity: 0;">
-        <p></p>
       </td>
       <td align="center" style="border: 1px solid transparent; opacity: 0;">
         <img src="https://via.placeholder.com/50" alt="Views" width="50"><br>
@@ -32,25 +20,10 @@
         <b>Views</b>
       </td>
       <td align="center" style="border: 1px solid transparent; opacity: 0;">
-        <p></p>
-      </td>
-      <td align="center" style="border: 1px solid transparent; opacity: 0;">
-        <p></p>
-      </td>
-      <td align="center" style="border: 1px solid transparent; opacity: 0;">
         <img src="https://via.placeholder.com/50" alt="Galle / Sri Lanka" width="50"><br>
       </td>
       <td align="center" style="border: 1px solid transparent; opacity: 0;">
         <b>Galle / Sri Lanka</b>
-      </td>
-      <td align="center" style="border: 1px solid transparent; opacity: 0;">
-        <p></p>
-      </td>
-      <td align="center" style="border: 1px solid transparent; opacity: 0;">
-        <p></p>
-      </td>
-      <td align="center" style="border: 1px solid transparent; opacity: 0;">
-        <p></p>
       </td>
       <td align="center" style="border: 1px solid transparent; opacity: 0;">
         <img src="https://via.placeholder.com/50" alt="Portfolio" width="50"><br>
@@ -58,12 +31,16 @@
       <td align="center" style="border: 1px solid transparent; opacity: 0;">
         <b>Portfolio</b>
       </td>
-      <td align="center" style="border: 1px solid transparent; opacity: 0;">
-        <p></p>
-      </td>
     </tr>
   </table>
 </div>
+
+
+
+
+
+
+
 
 <!--
 **RanujaLiyanaarachchi/RanujaLiyanaarachchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
