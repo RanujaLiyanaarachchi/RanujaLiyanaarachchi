@@ -2,9 +2,8 @@
 
 
 
-
 <div align="center">
-    <img src="https://raw.githubusercontent.com/RanujaLiyanaarachchi/University/main/Second%20Semester/Modules/images/Computer%20Science.gif" alt="Computer Science GIF">
+    <img src="https://raw.githubusercontent.com/RanujaLiyanaarachchi/University/main/Second%20Semester/Modules/images/tt.png" alt="Header Image">
 </div>
 
 
