@@ -51,7 +51,7 @@
 
 ## <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Tools.gif?raw=true" width="40px"> &nbsp;***Tools*** <br>
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,docker,firebase,kali,ubuntu,unity,visualstudio,vscode,windows,wordpress,aws,blender,powershell,apple,cloudflare,stackoverflow,gcp,gradle,mongodb,npm,postman,sublime&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,docker,firebase,kali,ubuntu,unity,visualstudio,vscode,windows,wordpress,aws,blender,powershell,apple,cloudflare,stackoverflow,gcp,gradle,mongodb,npm,postman,sublime,autocad,githubactions,jquery,matlab,r&theme=light)](https://skillicons.dev)
 <!--
 **RanujaLiyanaarachchi/RanujaLiyanaarachchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
