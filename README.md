@@ -10,7 +10,9 @@
 
 
 
-## <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/About.gif?raw=true" width="40px"> &nbsp;***About me***
+## <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/About.gif?raw=true" width="40px"> &nbsp;***About me*** <br><p></p>![GitHub followers](https://img.shields.io/github/followers/RanujaLiyanaarachchi?style=social )   ![GitHub User's stars](https://img.shields.io/github/stars/RanujaLiyanaarachchi?style=social)
+
+
 
 
 💻 **I am a self-taught** Full Stack Developer and **Mobile App Developer** (specializing in Flutter).
