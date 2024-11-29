@@ -4,8 +4,9 @@
 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/RanujaLiyanaarachchi/University/main/Second%20Semester/Modules/images/t8.png" alt="Header Image">
+    <img src="https://raw.githubusercontent.com/RanujaLiyanaarachchi/University/main/Second%20Semester/Modules/images/Computer%20Science.gif" alt="Computer Science GIF">
 </div>
+
 
 
 <!--
