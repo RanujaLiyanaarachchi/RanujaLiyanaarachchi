@@ -23,9 +23,9 @@
 
 🌱 **Learning more about** Firebase, Node.js, and performance optimization.
 
-<img align="right" width="300px" alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" style="padding-top: 80px;">
-
 🌟 **Main languages**: Flutter, Dart, Java, JavaScript, TypeScript, HTML, CSS and etc.
+
+ <img align="right" width="200px" alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" style="padding-top: 80px;">
 
 🚩 **Interested in** Full-Stack Development, Mobile App Development, and Tech Content Creation.
 
