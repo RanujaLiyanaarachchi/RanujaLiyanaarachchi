@@ -44,14 +44,17 @@
 ## <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Skills.gif?raw=true" width="40px"> &nbsp;***Skills*** <br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,dart,html,css,tailwind,javascript,dotnet,kotlin,php,python,swift,mysql,raspberrypi,react,git,github,gitlab,angular,htmx,js,nodejs,nextjs,nuxtjs,flutter,kotlin,bootstrap,linux,figma,arduino,ps,ai,ae,pr,xd&perline=18)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,dart,html,css,tailwind,javascript,dotnet,kotlin,php,python,swift,mysql,raspberrypi,react,git,github,gitlab,angular,htmx,js,nodejs,nextjs,nuxtjs,flutter,kotlin,bootstrap,jquery,figma,arduino,ps,ai,ae,pr,xd&perline=18)](https://skillicons.dev)
 
 
 <br><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Line.gif?raw=true"><br><p></p><br>
 
 ## <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Tools.gif?raw=true" width="40px"> &nbsp;***Tools*** <br>
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,docker,firebase,unity,visualstudio,vscode,wordpress,aws,blender,cloudflare,stackoverflow,gcp,gradle,mongodb,postman,autocad,jquery,matlab,r&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,docker,firebase,unity,visualstudio,vscode,aws,blender,cloudflare,gcp,gradle,mongodb,autocad,matlab,r&theme=light)](https://skillicons.dev)
+
+
+
 <!--
 **RanujaLiyanaarachchi/RanujaLiyanaarachchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
