@@ -44,7 +44,7 @@
 ## <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Skills.gif?raw=true" width="40px"> &nbsp;***Skills*** <br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,dart,html,css,tailwind,javascript,dotnet,kotlin,php,python,swift,mysql,raspberrypi,react,git,github,gitlab,angular,htmx,js,nodejs,nextjs,nuxtjs,flutter,kotlin,bootstrap,jquery,figma,arduino,ps,ai,ae,pr,xd&perline=18)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,dart,html,css,tailwind,javascript,dotnet,kotlin,php,python,swift,mysql,raspberrypi,react,git,java,gitlab,angular,htmx,js,nodejs,nextjs,nuxtjs,flutter,kotlin,bootstrap,jquery,figma,arduino,ps,ai,ae,pr,xd&perline=18)](https://skillicons.dev)
 
 
 <br><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Line.gif?raw=true"><br><p></p><br>
@@ -61,7 +61,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,kali,linux,powershell,stackoverflow,ubuntu,windows,wordpress" />
+    <img src="https://skillicons.dev/icons?i=github,apple,kali,linux,powershell,stackoverflow,ubuntu,windows,wordpress" />
   </a>
 </p>
 
