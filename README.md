@@ -77,6 +77,43 @@
 <br><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Line.gif?raw=true"><br><p></p><br>
 
 ## <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Achievements.gif?raw=true" width="40px"> &nbsp;***Achievements*** <br>
+
+
+
+<p align="center">
+  <a href="https://archiveprogram.github.com/">
+    <img alt="Temporary Image" src="https://via.placeholder.com/100" width="100px" height="100px">
+  </a>&nbsp;
+    
+  <a href="https://archiveprogram.github.com/">
+    <img alt="Temporary Image" src="https://via.placeholder.com/100" width="100px" height="100px">
+  </a>&nbsp;
+  
+  <a href="https://archiveprogram.github.com/">
+    <img alt="Temporary Image" src="https://via.placeholder.com/100" width="100px" height="100px">
+  </a>&nbsp;
+  
+  <a href="https://archiveprogram.github.com/">
+    <img alt="Temporary Image" src="https://via.placeholder.com/100" width="100px" height="100px">
+  </a>&nbsp;
+  
+  <a href="https://archiveprogram.github.com/">
+    <img alt="Temporary Image" src="https://via.placeholder.com/100" width="100px" height="100px">
+  </a>&nbsp;
+  
+  <a href="https://archiveprogram.github.com/">
+    <img alt="Temporary Image" src="https://via.placeholder.com/100" width="100px" height="100px">
+  </a>&nbsp;
+  
+  <a href="https://archiveprogram.github.com/">
+    <img alt="Temporary Image" src="https://via.placeholder.com/100" width="100px" height="100px">
+  </a>&nbsp;
+  
+  <a href="https://archiveprogram.github.com/">
+    <img alt="Temporary Image" src="https://via.placeholder.com/100" width="100px" height="100px">
+  </a>
+</p>
+
 <!--
 **RanujaLiyanaarachchi/RanujaLiyanaarachchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
