@@ -73,6 +73,10 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=RanujaLiyanaarachchi&theme=onedark&no-frame=true&no-bg=false&margin-w=8)
 
+
+<br><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Line.gif?raw=true"><br><p></p><br>
+
+## <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Achievements.gif?raw=true" width="40px"> &nbsp;***Achievements*** <br>
 <!--
 **RanujaLiyanaarachchi/RanujaLiyanaarachchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
