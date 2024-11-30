@@ -61,7 +61,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,apple,kali,linux,powershell,stackoverflow,ubuntu,windows,wordpress" />
+    <img src="https://skillicons.dev/icons?i=github,apple,kali,linux,powershell,stackoverflow,ubuntu,windows,wordpress,sublime,postman,npm" />
   </a>
 </p>
 
