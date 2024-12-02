@@ -169,6 +169,8 @@
 ## <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Connect.gif?raw=true" width="80px"> &nbsp;***Connect with me*** <br>
 
 <p>
+<a href="mailto:ranujaliyanaarachchi@gmail.com"><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Gmail.png?raw=true" alt="Gmail" width="55" height="55"/></a>
+&nbsp;&nbsp;
 <a href="https://www.facebook.com/Ranuja Riyanaarachchi/"><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/facebook.png?raw=true" alt="@Facebook" width="50" height="50"/></a>
 &nbsp;&nbsp;
 <a href="https://www.instagram.com/.../"><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/instagram.png?raw=true" alt="@Facebook" width="50" height="50"/></a>
@@ -180,8 +182,6 @@
 <a href="https://www.tiktok.com/.../"><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Tiktok.png?raw=true" alt="@TikTok" width="50" height="50"/></a>
 &nbsp;&nbsp;
 <a href="https://www.whatsapp.com/.../"><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/whatsapp.png?raw=true" alt="@Whatsapp" width="50" height="50"/></a>
-&nbsp;&nbsp;
-<a href="mailto:ranujaliyanaarachchi@gmail.com"><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Gmail.png?raw=true" alt="Gmail" width="55" height="55"/></a>
 </p>
 
 
