@@ -120,23 +120,23 @@
   <tr>
     <td width="50%">
       <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        <a href="https://github.com/RanujaLiyanaarachchi">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=RanujaLiyanaarachchi&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
         </a>
       </p>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://streak-stats.demolab.com?user=Kiran1689&theme=nightowl" alt="Streak Stats" />
+        <a href="https://github.com/RanujaLiyanaarachchi">
+          <img align="center" src="https://streak-stats.demolab.com?user=RanujaLiyanaarachchi&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Kiran1689&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        <a href="https://github.com/RanujaLiyanaarachchi">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=RanujaLiyanaarachchi&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
     </td>
     <td width="50%">
-        <a href="https://github.com/Kiran1689">
+        <a href="https://github.com/RanujaLiyanaarachchi">
           <img height="520" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RanujaLiyanaarachchi&theme=nightowl&hide_border=false&no-bg=true&no-frame=true&langs_count=14"/>
         </a>
     </td>
