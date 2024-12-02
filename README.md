@@ -149,7 +149,7 @@
 ## <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Connect.gif?raw=true" width="80px"> &nbsp;***Connect with me*** <br>
 
 <p align="center">
-<a align="center"href="mailto:ranujaliyanaarachchi@gmail.com"><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Gmail.png?raw=true" alt="Gmail" width="54" height="54"/></a>
+<a align="center"href="mailto:ranujaliyanaarachchi@gmail.com"><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Gmail.png?raw=true" alt="Gmail" width="52" height="52"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/Ranuja Riyanaarachchi/"><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/facebook.png?raw=true" alt="@Facebook" width="50" height="50"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
