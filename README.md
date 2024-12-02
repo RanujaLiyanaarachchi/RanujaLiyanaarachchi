@@ -200,7 +200,7 @@
   <p></p>Last Edited on: 04/12/2024
 </div>
 <br>
-<br><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Line.gif?raw=true"><br>
+<br><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Line.gif?raw=true">
 
 <p>  All Rights Reserved &copy; 2024 Ranuja Liyanaarachchi</p>
 
