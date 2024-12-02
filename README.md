@@ -136,9 +136,8 @@
       </p>
     </td>
     <td width="40%">
-      <h3 align="center">
         <a href="https://github.com/Kiran1689">
-          <img height="520" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RanujaLiyanaarachchi&theme=nightowl&hide_border=false&no-bg=true&no-frame=true&langs_count=14"/>
+          <img height="520" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RanujaLiyanaarachchi&theme=nightowl&hide_border=false&no-bg=true&no-frame=true&langs_count=14"/>
         </a>
     </td>
   </tr>
