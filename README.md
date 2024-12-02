@@ -118,7 +118,7 @@
 
 <table width="100%">
   <tr>
-    <td width="50%">
+    <td width="60%">
       <p align="center">
         <a href="https://github.com/Kiran1689">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
