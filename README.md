@@ -159,7 +159,7 @@
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img 
-            src="https://readme-typing-svg.herokuapp.com?font=Robot+Bold&size=30&color=ecf0f1&center=true&vCenter=true&width=900&height=110&lines=First,+solve+the+problem.+Then,+write+the+code.;+Great+Developers+never+stop+learning." 
+            src="https://readme-typing-svg.herokuapp.com?font=Robot+Bold&size=30&color=d0d3d4&center=true&vCenter=true&width=900&height=110&lines=First,+solve+the+problem.+Then,+write+the+code.;+Great+Developers+never+stop+learning." 
             alt="Typing SVG" />
     </a>
 </div>
