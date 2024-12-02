@@ -189,18 +189,15 @@
   <a href="https://github.com/RanujaLiyanaarachchi/RanujaLiyanaarachchi/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/RanujaLiyanaarachchi/RanujaLiyanaarachchi?logoColor=red&style=social"></a>
 </p>
 
-
-
-
-<p align="center">
-Credits: [Ranuja Liyanaarachchi](https://github.com/RanujaLiyanaarachchi).
-<br>Last Edited on: 04/12/2024
-</p>
-
 <div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2023 Shourya Sharma
+  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/><br/>
+  Profile Credits: <a href="https://github.com/RanujaLiyanaarachchi">Ranuja Liyanaarachchi</a>.
+  <br>Last Edited on: 04/12/2024<br><br>
 </div>
+
+##
+<p>  All Rights Reserved &copy; 2024 Ranuja Liyanaarachchi</p>
+
 <!--
 **RanujaLiyanaarachchi/RanujaLiyanaarachchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
