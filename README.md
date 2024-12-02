@@ -190,9 +190,9 @@
 </p>
 
 <div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/><br/>
+  :heart_eyes:Thanks for watching my profile! Have a nice day! :wink: <br/><br/>
   Profile Credits: <a href="https://github.com/RanujaLiyanaarachchi">Ranuja Liyanaarachchi</a>.
-  <br>Last Edited on: 04/12/2024<br><br>
+  <p></p>Last Edited on: 04/12/2024<br><br>
 </div>
 
 ##
