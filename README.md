@@ -7,7 +7,7 @@
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 
-## <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/About.gif?raw=true" width="40px"> &nbsp;***About me*** <br><p></p>[![GitHub Following](https://img.shields.io/badge/Following-1-red?&logoColor=black&style=social&logo=github)](https://github.com/RanujaLiyanaarachchi?tab=following) ![GitHub followers](https://img.shields.io/github/followers/RanujaLiyanaarachchi?style=social )  
+## <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/About.gif?raw=true" width="40px"> &nbsp;***About me*** <br><p></p>[![GitHub Following](https://img.shields.io/badge/Following-1-red?&logoColor=black&style=social&logo=github)](https://github.com/RanujaLiyanaarachchi?tab=following) [![GitHub followers](https://img.shields.io/github/followers/RanujaLiyanaarachchi?style=social )](https://github.com/RanujaLiyanaarachchi?tab=followers)  
 
 <!-- ![GitHub User's stars](https://img.shields.io/github/stars/RanujaLiyanaarachchi?style=social) -->
 
