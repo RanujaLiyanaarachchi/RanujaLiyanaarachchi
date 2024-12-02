@@ -135,11 +135,11 @@
         </a>
       </p>
     </td>
-    <td width="50%">
+    <td width="40%">
       <h3 align="center">
       <p align="center">
         <a href="https://github.com/Kiran1689">
-          <img height="524" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Scar1109&theme=nightowl&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+          <img height="520" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Scar1109&theme=nightowl&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
         </a>
       </p>
     </td>
