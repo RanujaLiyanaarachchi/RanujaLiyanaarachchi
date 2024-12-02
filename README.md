@@ -181,7 +181,7 @@
 &nbsp;&nbsp;
 <a href="https://www.whatsapp.com/.../"><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/whatsapp.png?raw=true" alt="@Whatsapp" width="50" height="50"/></a>
 &nbsp;&nbsp;
-<a href="mailto:ranujaliyanaarachchi@gmail.com"><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Gmail.png?raw=true" alt="Gmail" width="54" height="54"/></a>
+<a href="mailto:ranujaliyanaarachchi@gmail.com"><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Gmail.png?raw=true" alt="Gmail" width="56" height="56"/></a>
 </p>
 
 
