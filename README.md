@@ -173,6 +173,12 @@
 ## <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Thanks.gif?raw=true" width="40px"> &nbsp;***Thanks*** <br>
 
 
+<div align=center>
+  <h3><b>Profile Visitor Count</b></h3>
+</div>
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/RanujaLiyanaarachchi/count.svg" />  
+</p>
 
 <!--
 **RanujaLiyanaarachchi/RanujaLiyanaarachchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
