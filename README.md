@@ -170,14 +170,21 @@
 
 <br><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Line.gif?raw=true"><br><p></p><br>
 
-## <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Thanks.gif?raw=true" width="40px"> &nbsp;***Thanks*** <br>
+## <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Thanks.gif?raw=true" width="40px"> &nbsp;***Thank You*** <br>
 
-
+<br>
 <div align=center>
   <h3><b>Profile Visitor Count</b></h3>
 </div>
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/RanujaLiyanaarachchi/count.svg" />  
+  <img src="https://profile-counter.glitch.me/RanujaLiyanaarachchi/count.svg" /> 
+</p>
+
+<p align="center">
+  <a href="https://github.com/RanujaLiyanaarachchi?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/RanujaLiyanaarachchi?&logoColor=red&style=social"></a>
+  <a href="https://github.com/RanujaLiyanaarachchi?tab=following"> <img alt="Following" src="https://img.shields.io/badge/Following-1-red?&logoColor=red&style=social&logo=github"></a>
+  <a href="https://github.com/RanujaLiyanaarachchi?tab=repositories"><img alt="Stars" src="https://img.shields.io/github/stars/RanujaLiyanaarachchi?&logoColor=red&style=social"></a>
+  <a href="https://github.com/RanujaLiyanaarachchi/RanujaLiyanaarachchi/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/RanujaLiyanaarachchi/RanujaLiyanaarachchi?logoColor=red&style=social"></a>
 </p>
 
 <!--
