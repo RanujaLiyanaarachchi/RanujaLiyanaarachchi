@@ -151,6 +151,19 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=RanujaLiyanaarachchi&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
+
+<br><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Line.gif?raw=true"><br><p></p><br>
+
+## <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Fun Fact.gif?raw=true" width="40px"> &nbsp;***Fun Fact*** <br>
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img 
+            src="https://readme-typing-svg.herokuapp.com?font=Robot+Bold&size=30&color=ffffff&center=true&vCenter=true&width=900&height=110&lines=First,+solve+the+problem.+Then,+write+the+code.;+Great+Developers+never+stop+learning." 
+            alt="Typing SVG" />
+    </a>
+</div>
+
 <!--
 **RanujaLiyanaarachchi/RanujaLiyanaarachchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
