@@ -7,7 +7,7 @@
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 
-## <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/About.gif?raw=true" width="40px"> &nbsp;***About me*** <br><p></p>[![GitHub Following](https://img.shields.io/badge/Following-1-red?&logoColor=black&style=social&logo=github)](https://github.com/RanujaLiyanaarachchi?tab=following) [![GitHub followers](https://img.shields.io/github/followers/RanujaLiyanaarachchi?style=social )](https://github.com/RanujaLiyanaarachchi?tab=followers)  
+## <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/About.gif?raw=true" width="40px"> &nbsp;***About me*** <br><p></p>[![GitHub Following](https://img.shields.io/badge/Following-2-red?&logoColor=black&style=social&logo=github)](https://github.com/RanujaLiyanaarachchi?tab=following) [![GitHub followers](https://img.shields.io/github/followers/RanujaLiyanaarachchi?style=social )](https://github.com/RanujaLiyanaarachchi?tab=followers)  
 
 <!-- ![GitHub User's stars](https://img.shields.io/github/stars/RanujaLiyanaarachchi?style=social) -->
 
@@ -189,6 +189,18 @@
   <a href="https://github.com/RanujaLiyanaarachchi/RanujaLiyanaarachchi/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/RanujaLiyanaarachchi/RanujaLiyanaarachchi?logoColor=red&style=social"></a>
 </p>
 
+
+
+
+<p align="center">
+Credits: [Ranuja Liyanaarachchi](https://github.com/RanujaLiyanaarachchi).
+<br>Last Edited on: 04/12/2024
+</p>
+
+<div align="center">
+  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+  &copy; 2023 Shourya Sharma
+</div>
 <!--
 **RanujaLiyanaarachchi/RanujaLiyanaarachchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
