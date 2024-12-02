@@ -146,25 +146,27 @@
 
 <br><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Line.gif?raw=true"><br><p></p><br>
 
-## <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Connect.gif?raw=true" width="80px"> &nbsp;***Connect with me*** <br>
+## <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Connect.gif?raw=true" align="left" height="40px">***Connect with me*** <br>
 
 <p align="center">
 <a align="center"href="mailto:ranujaliyanaarachchi@gmail.com"><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Gmail.png?raw=true" alt="Gmail" width="52" height="52"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/Ranuja Riyanaarachchi/"><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/facebook.png?raw=true" alt="@Facebook" width="50" height="50"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/.../"><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/instagram.png?raw=true" alt="@Facebook" width="50" height="50"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/Ranuja_Liyanaarachchi/"><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Linkedin.png?raw=true" alt="@Linkedini" width="50" height="50"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.twitter.com/.../"><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Twitter.png?raw=true" alt="@Twitter" width="50" height="50"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.tiktok.com/.../"><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Tiktok.png?raw=true" alt="@TikTok" width="50" height="50"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.whatsapp.com/.../"><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/whatsapp.png?raw=true" alt="@Whatsapp" width="50" height="50"/></a>
 </p>
 
+<br><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Line.gif?raw=true"><br><p></p><br>
 
+## <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Thanks.gif?raw=true" width="40px"> &nbsp;***Thanks*** <br>
 
 
 
