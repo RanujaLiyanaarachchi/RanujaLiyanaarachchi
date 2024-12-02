@@ -142,11 +142,15 @@
             src="https://readme-typing-svg.herokuapp.com?font=Robot+Bold&size=30&color=d0d3d4&center=true&vCenter=true&width=900&height=110&lines=First,+solve+the+problem.+Then,+write+the+code.;+Great+Developers+never+stop+learning." 
             alt="Typing SVG" />
     </a>
-</div>
+</div> 
+
+<p align="center">
+  <img  src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Grid Snake.svg?raw=true"alt="example" />
+</p>
 
 <br><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Line.gif?raw=true"><br><p></p><br>
 
-## <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Connect.gif?raw=true" align="left" height="40px">***Connect with me*** <br>
+## <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Connect.gif?raw=true" height="40px"> &nbsp;***Connect with me*** <br>
 
 <p align="center">
 <a align="center"href="mailto:ranujaliyanaarachchi@gmail.com"><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Gmail.png?raw=true" alt="Gmail" width="52" height="52"/></a>
