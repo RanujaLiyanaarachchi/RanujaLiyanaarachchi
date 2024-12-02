@@ -174,7 +174,8 @@
 
 ## <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Thanks.gif?raw=true" width="40px"> &nbsp;***Thank You*** <br>
 
-<br>
+<p></p>
+
 <div align=center>
   <h3><b>Profile Visitor Count</b></h3>
 </div>
@@ -189,13 +190,18 @@
   <a href="https://github.com/RanujaLiyanaarachchi/RanujaLiyanaarachchi/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/RanujaLiyanaarachchi/RanujaLiyanaarachchi?logoColor=red&style=social"></a>
 </p>
 
-<div align="center">
-  :heart_eyes:Thanks for watching my profile! Have a nice day! :wink: <br/><br/>
-  Profile Credits: <a href="https://github.com/RanujaLiyanaarachchi">Ranuja Liyanaarachchi</a>.
-  <p></p>Last Edited on: 04/12/2024<br><br>
+
+<div align=center>
+  <h3>:heart_eyes:Thanks for watching my profile! Have a nice day!:wink:</b></h3>
 </div>
 
-##
+<div align="center">
+  Profile Credits: <a href="https://github.com/RanujaLiyanaarachchi">Ranuja Liyanaarachchi</a>.
+  <p></p>Last Edited on: 04/12/2024
+</div>
+<br>
+<br><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Line.gif?raw=true"><br>
+
 <p>  All Rights Reserved &copy; 2024 Ranuja Liyanaarachchi</p>
 
 <!--
