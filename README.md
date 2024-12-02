@@ -118,7 +118,7 @@
 
 <table width="100%">
   <tr>
-    <td width="60%">
+    <td width="55%">
       <p align="center">
         <a href="https://github.com/Kiran1689">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
@@ -139,7 +139,7 @@
       <h3 align="center">
       <p align="center">
         <a href="https://github.com/Kiran1689">
-          <img height="800" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Scar1109&theme=nightowl&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+          <img height="520" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Scar1109&theme=nightowl&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
         </a>
       </p>
     </td>
