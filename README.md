@@ -171,7 +171,7 @@
 <p>
 <a href="https://www.facebook.com/Ranuja Riyanaarachchi/"><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/facebook.png?raw=true" alt="@Facebook" width="50" height="50"/></a>
 &nbsp;&nbsp;
-<a href="https://www.whatsapp.com/.../"><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/whatsapp.png?raw=true" alt="@Facebook" width="50" height="50"/></a>
+<a href="https://www.instagram.com/.../"><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/instagram.png?raw=true" alt="@Facebook" width="50" height="50"/></a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/Ranuja_Liyanaarachchi/"><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Linkedin.png?raw=true" alt="@Linkedini" width="50" height="50"/></a>
 &nbsp;&nbsp;
