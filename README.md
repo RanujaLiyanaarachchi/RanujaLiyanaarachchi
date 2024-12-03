@@ -153,7 +153,7 @@
 <br><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Line.gif?raw=true"><br><p></p><br>
 
 ## <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Connect.gif?raw=true" height="40px"> &nbsp;***Connect with me*** <br>
-
+<br>
 <p align="center">
 <a align="center"href="mailto:ranujaliyanaarachchi@gmail.com"><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Gmail.png?raw=true" alt="Gmail" width="52" height="52"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -174,7 +174,7 @@
 
 ## <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Thanks.gif?raw=true" width="40px"> &nbsp;***Thank You*** <br>
 
-<p></p>
+<p></p><br>
 
 <div align=center>
   <h3><b>Profile Visitor Count</b></h3>
@@ -194,7 +194,7 @@
 <div align=center>
   <h3>:heart_eyes:Thanks for watching my profile! Have a nice day!:wink:</b></h3>
 </div>
-
+<p></p>
 <div align="center">
   Profile Credits: <a href="https://github.com/RanujaLiyanaarachchi">Ranuja Liyanaarachchi</a>.
   <p></p>Last Edited on: 04/12/2024
