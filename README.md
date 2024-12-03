@@ -195,10 +195,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/RanujaLiyanaarachchi?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/RanujaLiyanaarachchi?&logoColor=red&style=social"></a>
-  <a href="https://github.com/RanujaLiyanaarachchi?tab=following"> <img alt="Following" src="https://img.shields.io/badge/Following-1-red?&logoColor=red&style=social&logo=github"></a>
-  <a href="https://github.com/RanujaLiyanaarachchi?tab=stars"><img alt="Stars" src="https://img.shields.io/github/stars/RanujaLiyanaarachchi?&logoColor=red&style=social"></a>
-  <a href="https://github.com/RanujaLiyanaarachchi/RanujaLiyanaarachchi/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/RanujaLiyanaarachchi/RanujaLiyanaarachchi?logoColor=red&style=social"></a>
+  <a href="https://github.com/RanujaLiyanaarachchi?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/RanujaLiyanaarachchi?&style=social"></a>
+  <a href="https://github.com/RanujaLiyanaarachchi?tab=following"> <img alt="Following" src="https://img.shields.io/badge/Following-1-black?&style=social&logo=github"></a>
+  <a href="https://github.com/RanujaLiyanaarachchi?tab=stars"><img alt="Stars" src="https://img.shields.io/github/stars/RanujaLiyanaarachchi?style=social"></a>
+  <a href="https://github.com/RanujaLiyanaarachchi/RanujaLiyanaarachchi/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/RanujaLiyanaarachchi/RanujaLiyanaarachchi?&style=social"></a>
 </p>
 
 
