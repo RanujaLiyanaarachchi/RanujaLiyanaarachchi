@@ -1,3 +1,4 @@
+
 <div align="center">
     <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/GitHub%20Baner.gif?raw=true" alt="GitHub Banner GIF">
 </div>
@@ -6,13 +7,11 @@
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-
 ## <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/About.gif?raw=true" width="40px"> &nbsp;***About me*** <br><p></p>[![GitHub Following](https://img.shields.io/badge/Following-1-red?&logoColor=black&style=social&logo=github)](https://github.com/RanujaLiyanaarachchi?tab=following) [![GitHub followers](https://img.shields.io/github/followers/RanujaLiyanaarachchi?style=social )](https://github.com/RanujaLiyanaarachchi?tab=followers)  
 
 <!-- ![GitHub User's stars](https://img.shields.io/github/stars/RanujaLiyanaarachchi?style=social) -->
 
-
-
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 💻 **I am a self-taught** Full Stack Developer and **Mobile App Developer** (specializing in Flutter).
 
@@ -40,6 +39,7 @@
 
 📫 **How to reach me**: [E-mail](mailto:your-email@example.com).
 
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <br><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Line.gif?raw=true"><br><p></p><br>
 
@@ -48,6 +48,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,dart,html,css,tailwind,javascript,dotnet,kotlin,php,python,swift,mysql,raspberrypi,react,git,java,gitlab,angular,htmx,js,nodejs,nextjs,nuxtjs,flutter,kotlin,bootstrap,jquery,figma,arduino,ps,ai,ae,pr,xd&perline=18)](https://skillicons.dev)
 
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <br><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Line.gif?raw=true"><br><p></p><br>
 
@@ -55,7 +56,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,docker,firebase,unity,visualstudio,vscode,aws,blender,cloudflare,gcp,gradle,mongodb,autocad,matlab,r&theme=light)](https://skillicons.dev)
 
-
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <br><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Line.gif?raw=true"><br><p></p><br>
 
@@ -67,7 +68,7 @@
   </a>
 </p>
 
-
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <br><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Line.gif?raw=true"><br><p></p><br>
 
@@ -75,11 +76,11 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=RanujaLiyanaarachchi&theme=onedark&no-frame=true&no-bg=false&margin-w=8)
 
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <br><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Line.gif?raw=true"><br><p></p><br>
 
 ## <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Achievements.gif?raw=true" width="40px"> &nbsp;***Achievements*** <br>
-
 
 
 <p align="center">
@@ -92,6 +93,7 @@
   <a href="https://archiveprogram.github.com/"><img alt="Temporary Image" src="https://via.placeholder.com/100" width="100px" height="100px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <br><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Line.gif?raw=true"><br><p></p><br>
 
@@ -125,6 +127,8 @@
   </tr>
 </table>
 
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
 <br><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Line.gif?raw=true"><br><p></p><br>
 
 ## <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Activity Graph.gif?raw=true" width="40px"> &nbsp;***Activity Graph*** <br>
@@ -133,6 +137,8 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=RanujaLiyanaarachchi&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <br><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Line.gif?raw=true"><br><p></p><br>
 
@@ -150,9 +156,12 @@
   <img  src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Grid Snake.svg?raw=true"alt="example" />
 </p>
 
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
 <br><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Line.gif?raw=true"><br><p></p><br>
 
 ## <img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Connect.gif?raw=true" height="40px"> &nbsp;***Connect with me*** <br>
+
 <br>
 <p align="center">
 <a align="center"href="mailto:ranujaliyanaarachchi@gmail.com"><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Gmail.png?raw=true" alt="Gmail" width="52" height="52"/></a>
@@ -169,6 +178,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.whatsapp.com/.../"><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/whatsapp.png?raw=true" alt="@Whatsapp" width="50" height="50"/></a>
 </p>
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <br><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Line.gif?raw=true"><br><p></p><br>
 
@@ -200,6 +211,9 @@
   <p></p>Last Edited on: 04/12/2024
 </div>
 <br>
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
 <br><img src="https://github.com/RanujaLiyanaarachchi/GitHub/blob/main/Profile/Images/Line.gif?raw=true">
 
 <p>  All Rights Reserved &copy; 2024 Ranuja Liyanaarachchi</p>
