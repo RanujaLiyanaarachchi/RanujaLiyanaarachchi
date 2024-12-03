@@ -195,12 +195,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/RanujaLiyanaarachchi?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/RanujaLiyanaarachchi?&style=social"></a>
-  <a href="https://github.com/RanujaLiyanaarachchi?tab=following"> <img alt="Following" src="https://img.shields.io/badge/Following-1-black?&style=social&logo=github"></a>
-  <a href="https://github.com/RanujaLiyanaarachchi?tab=stars"><img alt="Stars" src="https://img.shields.io/github/stars/RanujaLiyanaarachchi?style=social"></a>
-  <a href="https://github.com/RanujaLiyanaarachchi/RanujaLiyanaarachchi/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/RanujaLiyanaarachchi/RanujaLiyanaarachchi?&style=social"></a>
+  <a href="https://github.com/RanujaLiyanaarachchi?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/RanujaLiyanaarachchi?&style=social&logoColor=red"></a>
+  <a href="https://github.com/RanujaLiyanaarachchi?tab=following"> <img alt="Following" src="https://img.shields.io/badge/Following-1-black?&style=social&logo=github&logoColor=red"></a>
+  <a href="https://github.com/RanujaLiyanaarachchi?tab=stars"><img alt="Stars" src="https://img.shields.io/github/stars/RanujaLiyanaarachchi?style=social&logoColor=red"></a>
+  <a href="https://github.com/RanujaLiyanaarachchi/RanujaLiyanaarachchi/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/RanujaLiyanaarachchi/RanujaLiyanaarachchi?&style=social&logoColor=red"></a>
 </p>
-
 
 <div align=center>
   <h3>:heart_eyes:Thanks for watching my profile! Have a nice day!:wink:</b></h3>
