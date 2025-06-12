@@ -12,6 +12,7 @@
 <!-- ![GitHub User's stars](https://img.shields.io/github/stars/RanujaLiyanaarachchi?style=social) -->
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+🤵 **Hi, I'm Ranuja Liyanaarachchi**
 
 💻 **I am a self-taught** Full Stack Developer and **Mobile App Developer** (specializing in Flutter).
 
