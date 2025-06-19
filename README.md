@@ -36,7 +36,7 @@
 
 👯 **I’m looking to collaborate on** mobile/web development projects and open-source contributions.
 
-👨‍💻 **All of my projects are available at** [My Web](https://github.com/).
+👨‍💻 **All of my projects are available at** [My Portfolio](https://ranujaliyanaarachchi.github.io/Portfolio/).
 
 📫 **How to reach me**: [E-mail](mailto:ranujaliyanaarachchi@gmail.com).
 
